@@ -7,7 +7,9 @@ To get started with the Simple Finances Project, follow the steps below:
 Clone the repository to your local machine using:
 bash
 Copy code
+
 git clone https://github.com/renatoschichi/devfinance.git
+
 Open the index.html file in your web browser.
 Usage
 The Dev Finances Project is a web application that allows users to manage their finances. Users can add income and expenses, and the app provides a summary of their total income, expenses, and balance.
